@@ -1,0 +1,8 @@
+| Component            | Technology             |
+| -------------------- | ---------------------- |
+| Voice Interface      | Twilio / OmniDimension |
+| Backend API          | FastAPI (Python)       |
+| NLP & Task Parsing   | Regex / spaCy / GPT    |
+| Calendar Integration | Google Calendar API    |
+| Bidding System       | Custom Auction Engine  |
+| Hosting              | Render / Vercel        |
